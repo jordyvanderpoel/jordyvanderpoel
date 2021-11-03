@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=jordyvanderpoel&theme=algolia&show_icons=true" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyvanderpoel&theme=algolia&show_icons=true" />
 <!--
 **jordyvanderpoel/jordyvanderpoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
