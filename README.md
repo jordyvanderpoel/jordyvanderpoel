@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://www.buymeacoffee.com/jordyvanderpoel" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=jordyvanderpoel&theme=algolia&show_icons=true" />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyvanderpoel&theme=algolia&show_icons=true" />
